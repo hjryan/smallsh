@@ -1,5 +1,7 @@
 # Small Shell
 
+![](/gifs/smallsh.gif)
+
 This is a very tiny shell written in C which has the following functionality:
 
 1. Provides a prompt for running commands
